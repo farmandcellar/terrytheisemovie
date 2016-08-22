@@ -1,0 +1,64 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 12:33:28 Apr 10, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:22:20 Jul 27, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+* { padding: 0px; margin: 0px; }
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, label, ul, ol, dl, fieldset, address { margin: 10px 0; }
+form { margin: 0px; }
+dd, blockquote { margin-left: 20px; }
+fieldset { padding: 10px; }
+input { outline: none; }
+img { border: 0; }
+
+
+body { font-family: Georgia, "Palatino", "Palatino Linotype", Times, "Times New Roman", Serif; font-size: 14px; line-height: 20px; color: #fff; text-align: justify; background-color: #000; }
+h1, h2, h3, h4 { font-family: Georgia, Times, "Times New Roman", Serif; color: #fff; font-weight: normal; margin: 0; padding: 10px 0; }
+
+a { color: #336533; text-decoration: none; }
+a:hover { color: #336633; }
+
+.clear { clear: both; }
+.hide { display: none; }
+.show { display: block; }
+.small { font-size: 10px; }
+
+.emailbox { margin-top: 10px; width: 240px; height: 26px; font-size: 18px; }
+.submitty { margin: -27px 0 0 250px; }
+
+.content { margin: 10px auto; width: 1000px; }
+.header { text-align: center; }
+.synopsis { color: #cbcbcb; margin: 30px auto; width: 875px; font-size: 16px; line-height: 26px; }
+
+.syntxt { float: left; margin: 0 50px 0 27px; width: 333px; }
+.synvideo { float: left; margin-left: 400;}
+
+.dvd { color: #cbcbcb; }
+.dvdimg { margin-top: -50px; }
+.dvdres { float: right; width: 520px; font-size: 20px; margin-top: -95px; }
+.form { margin: 10px 0; line-height: 30px; z-index: 31337; position: relative; }
+.form img { padding-top: 10px; vertical-align: bottom; }
+.footnote { font-size: 11px; color: #444; font-style: italic; text-align: left; }
+
+.producers { color: #cbcbcb; margin: 30px auto; width: 920px; }
+.producers h2 { margin: 25px; }
+.producer { float: left; padding-bottom: 20px; width: 228px; text-align: center; }
+.producer strong { display: block; margin-top: 10px; font-weight: normal; }
+.producer em { display: block; }
+
+.terry { background-color: #666; padding: 15px; margin: 20px auto; width: 875px; }
+.terry h2 { margin-bottom: 15px; padding: 0; font-size: 24px; }
+.terry h3 { margin: 0; padding: 0; font-size: 20px; font-style: italic; }
+.terry img { float: left; display: inline; margin-right: 15px; }
+	
+.footer { text-align: center; margin: 30px; padding-top: 20px; }
+
+.copyright { font-size: 11px; text-align: center; margin: 30px; color: #444; font-style: italic; }
